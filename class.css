@@ -1,0 +1,27 @@
+/* class tempelate */
+body {
+    padding-top: 100px
+}
+.class-template {
+    padding: 3rem 1,5rem ;
+    text-align: center;
+    margin-bottom: 80px;
+  }
+
+/* setingan footer*/
+.footer {
+    background-color: #fafafa;
+}
+
+.card:hover {
+    box-shadow: 0px 2px 20px rgba(0,0,0,0.2);
+}
+
+.class-template{
+    margin-left: 45px;
+}
+
+.button-login{
+    margin-left: 730px;
+    
+}

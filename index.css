@@ -1,0 +1,52 @@
+/* style slider */ 
+.carousel-item{
+    height: 500px; width: 1280px;
+}
+.carousel-item .display-4 {
+    margin-top: -330px;
+    font-weight: 400;   
+}
+
+.carousel-item .lead {
+    font-weight: 400
+}
+
+.carousel-item .font-italic {
+    margin-top: -50px ;
+}
+
+/* button pada slides */
+.carousel-item .btn {
+    background-color:#3B7A57 ;
+    border:none;
+    padding-right:25px ;
+    padding-left: 25px;
+    margin-top: ;
+}
+
+body {
+    padding-top: 0rem;
+  }
+  .home-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+/* BUTTON CLS PDA HOME */
+.home-template .btn {
+    background-color:#3B7A57 ;
+    border:none;
+    padding-right:25px ;
+    padding-left: 25px;
+}
+
+/* design footer */
+.containerfooter {
+    background-color: #fafafa;
+    margin-left: 80px;
+
+}
+
+.button-login{
+    margin-left: 730px;
+    
+}

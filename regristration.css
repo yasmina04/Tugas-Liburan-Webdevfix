@@ -1,0 +1,26 @@
+/* design footer */
+.footer {
+    background-color: #fafafa;
+}
+
+.jumbotron{
+    text-align:center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.form{
+    margin-left:270px;
+   margin-bottom: 50px;
+    
+}
+
+.containerfooter{
+    margin-left: 80px;
+}
+
+.button-login{
+    margin-left: 730px;
+    
+}
+

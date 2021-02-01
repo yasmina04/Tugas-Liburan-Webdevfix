@@ -1,0 +1,29 @@
+.container{
+    padding-left: 400px;
+    padding-right:400px;
+    padding-top: 100px;
+}
+/* tulisan log in */
+.h3{
+    text-align: center;
+}
+
+/* gambar logo */
+img{
+    margin-left: 100px;
+}
+
+/* check box */
+.checkbox{
+    margin-top: 13px;
+}
+
+.containerfooter{
+    margin-left: 80px;
+}
+
+.button-login{
+    margin-left: 730px;
+    
+}
+
